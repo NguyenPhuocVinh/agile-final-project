@@ -1,21 +1,3 @@
----
-name: User Story
-about: This template is for creating user stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: FP User Story
-about: 'Agile final project: Developing an e-commerce product catalog on cloud.'
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
